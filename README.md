@@ -19,11 +19,13 @@ First, open the window you want to capture using OpenCV in real-time. For instan
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/3664591b-6235-4922-8fd3-dfe0c480bce7" width="400" alt="OBS Studio">
+  <br>
   <img src="https://github.com/user-attachments/assets/820c4b21-5cce-440c-8600-c9fef191ab46" width="400" alt="Add window in OBS">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95d0a5ae-3d96-4711-98fe-4ca4d6166892" width="400" alt="OBS settings">
+  <img src="https://github.com/user-attachments/assets/95d0a5ae-3d96-4711-98fe-4ca4d6166892" width="400" alt="OBS settings"> 
+  <br>
   <img src="https://github.com/user-attachments/assets/106750c6-c49c-4fa3-8156-f8ce9b30f30f" width="400" alt="OBS window selection">
 </p>
 
