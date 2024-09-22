@@ -1,6 +1,4 @@
-Here's a reformatted version of your README file with smaller images and improved layout:
 
----
 
 # OpenCV Through OBS Virtual Camera
 
